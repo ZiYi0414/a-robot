@@ -1,0 +1,25 @@
+{
+  "name": "a-robot",
+  "version": "1.0.0",
+  "description": "just a bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYKKOne-11/a-robot.git"
+  },
+  "author": "kko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZYKKOne-11/a-robot/issues"
+  },
+  "homepage": "https://github.com/ZYKKOne-11/a-robot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^16.0.1",
+    "form-data": "^3.0.0",
+    "node-cron": "^3.0.0"
+  }
+}
